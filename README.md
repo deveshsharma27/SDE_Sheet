@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0739-daily-temperatures) |
 | [0994-rotting-oranges](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0994-rotting-oranges) |
 ## Breadth-First Search
 |  |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0901-online-stock-span) |
 ## Design
 |  |
@@ -26,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
