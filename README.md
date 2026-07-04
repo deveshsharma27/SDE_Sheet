@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0242-valid-anagram) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/deveshsharma27/SDE_Sheet/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Dynamic Programming
 |  |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0013-roman-to-integer) |
+| [0242-valid-anagram](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0242-valid-anagram) |
 ## Math
 |  |
 | ------- |
@@ -82,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
