@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0005-longest-palindromic-substring) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0509-fibonacci-number](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0509-fibonacci-number) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/deveshsharma27/SDE_Sheet/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/deveshsharma27/SDE_Sheet/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Hash Table
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0013-roman-to-integer) |
+| [0509-fibonacci-number](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0509-fibonacci-number) |
 ## Trie
 |  |
 | ------- |
@@ -261,4 +263,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0316-remove-duplicate-letters) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
