@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0287-find-the-duplicate-number](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0739-daily-temperatures) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0165-compare-version-numbers) |
+| [0287-find-the-duplicate-number](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0344-reverse-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## String
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0287-find-the-duplicate-number](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0287-find-the-duplicate-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0700-search-in-a-binary-search-tree) |
 | [0704-binary-search](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0704-binary-search) |
@@ -296,4 +299,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0584-find-customer-referee](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0584-find-customer-referee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/deveshsharma27/SDE_Sheet/tree/master/1757-recyclable-and-low-fat-products) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
