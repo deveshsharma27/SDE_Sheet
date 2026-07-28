@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0014-longest-common-prefix) |
+| [0048-rotate-image](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0075-sort-colors) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0073-set-matrix-zeroes) |
 | [0994-rotting-oranges](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0994-rotting-oranges) |
 ## Stack
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0048-rotate-image) |
 | [0509-fibonacci-number](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0509-fibonacci-number) |
 ## Trie
 |  |
