@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0485-max-consecutive-ones) |
+| [0540-single-element-in-a-sorted-array](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0739-daily-temperatures) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0287-find-the-duplicate-number](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0287-find-the-duplicate-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0540-single-element-in-a-sorted-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0700-search-in-a-binary-search-tree) |
 | [0704-binary-search](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0704-binary-search) |
