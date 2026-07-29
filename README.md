@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0189-rotate-array](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0735-asteroid-collision) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0165-compare-version-numbers) |
+| [0189-rotate-array](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0344-reverse-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0048-rotate-image) |
+| [0189-rotate-array](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0509-fibonacci-number) |
 ## Trie
 |  |
