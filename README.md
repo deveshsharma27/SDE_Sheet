@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0075-sort-colors) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0098-validate-binary-search-tree](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0173-binary-search-tree-iterator) |
