@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0165-compare-version-numbers) |
+| [0205-isomorphic-strings](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0316-remove-duplicate-letters](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0316-remove-duplicate-letters) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0133-clone-graph](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0133-clone-graph) |
+| [0205-isomorphic-strings](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0242-valid-anagram) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
