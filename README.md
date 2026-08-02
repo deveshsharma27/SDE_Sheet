@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0316-remove-duplicate-letters](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0344-reverse-string) |
+| [0451-sort-characters-by-frequency](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/deveshsharma27/SDE_Sheet/tree/master/1021-remove-outermost-parentheses) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/deveshsharma27/SDE_Sheet/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0133-clone-graph) |
 | [0205-isomorphic-strings](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0451-sort-characters-by-frequency) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Math
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0451-sort-characters-by-frequency) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Tree
 |  |
@@ -336,4 +339,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0287-find-the-duplicate-number) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0451-sort-characters-by-frequency) |
+## Counting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
