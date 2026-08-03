@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0189-rotate-array) |
+| [0260-single-number-iii](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0485-max-consecutive-ones) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0231-power-of-two) |
+| [0260-single-number-iii](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0287-find-the-duplicate-number) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/deveshsharma27/SDE_Sheet/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Heap (Priority Queue)
