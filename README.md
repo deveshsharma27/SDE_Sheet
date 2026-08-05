@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0231-power-of-two) |
@@ -374,4 +376,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0877-stone-game) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
