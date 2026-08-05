@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0994-rotting-oranges) |
+| [3310-remove-methods-from-project](https://github.com/deveshsharma27/SDE_Sheet/tree/master/3310-remove-methods-from-project) |
 ## Matrix
 |  |
 | ------- |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/deveshsharma27/SDE_Sheet/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [3310-remove-methods-from-project](https://github.com/deveshsharma27/SDE_Sheet/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0133-clone-graph) |
+| [3310-remove-methods-from-project](https://github.com/deveshsharma27/SDE_Sheet/tree/master/3310-remove-methods-from-project) |
 ## Greedy
 |  |
 | ------- |
