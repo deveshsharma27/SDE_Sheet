@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0316-remove-duplicate-letters](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0344-reverse-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/deveshsharma27/SDE_Sheet/tree/master/1021-remove-outermost-parentheses) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0133-clone-graph) |
 | [0205-isomorphic-strings](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0451-sort-characters-by-frequency) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0904-fruit-into-baskets](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0904-fruit-into-baskets) |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0904-fruit-into-baskets) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/deveshsharma27/SDE_Sheet/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/deveshsharma27/SDE_Sheet/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
