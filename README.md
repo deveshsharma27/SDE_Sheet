@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0283-move-zeroes) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0133-clone-graph](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0133-clone-graph) |
+| [0160-intersection-of-two-linked-lists](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0424-longest-repeating-character-replacement) |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0021-merge-two-sorted-lists) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0160-intersection-of-two-linked-lists](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0876-middle-of-the-linked-list) |
