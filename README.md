@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/deveshsharma27/SDE_Sheet/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/deveshsharma27/SDE_Sheet/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/deveshsharma27/SDE_Sheet/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/deveshsharma27/SDE_Sheet/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3731-find-missing-elements](https://github.com/deveshsharma27/SDE_Sheet/tree/master/3731-find-missing-elements) |
 ## Breadth-First Search
 |  |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0735-asteroid-collision) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/deveshsharma27/SDE_Sheet/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Two Pointers
 |  |
 | ------- |
