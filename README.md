@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0078-subsets) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0509-fibonacci-number) |
