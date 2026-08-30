@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/deveshsharma27/SDE_Sheet/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/deveshsharma27/SDE_Sheet/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/deveshsharma27/SDE_Sheet/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/deveshsharma27/SDE_Sheet/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/deveshsharma27/SDE_Sheet/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/deveshsharma27/SDE_Sheet/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/deveshsharma27/SDE_Sheet/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0316-remove-duplicate-letters) |
 | [1903-largest-odd-number-in-string](https://github.com/deveshsharma27/SDE_Sheet/tree/master/1903-largest-odd-number-in-string) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/deveshsharma27/SDE_Sheet/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Recursion
 |  |
 | ------- |
