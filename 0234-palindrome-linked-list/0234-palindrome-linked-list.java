@@ -9,26 +9,76 @@
  * }
  */
 class Solution {
+    private static ListNode reverseList(ListNode head) {
+        ListNode prev = null;
+        ListNode cur = head;
+
+        while (cur != null) {
+            ListNode temp = cur.next;
+
+            cur.next = prev;
+
+            prev = cur;
+            cur = temp;
+        }
+        return prev;
+    }
+
     public boolean isPalindrome(ListNode head) {
-        ListNode temp = head;
+        if (head == null || head.next == null)
+            return true;
 
-        List<Integer>arr = new ArrayList<>();
+        ListNode slow = head;
+        ListNode fast = head;
 
-        while(temp!=null){
-            arr.add(temp.val);
-            temp = temp.next;
+        // find midddle Node 
+        while (fast != null && fast.next != null) {
+            slow = slow.next;
+            fast = fast.next.next;
         }
 
-        int n = arr.size();
-         int left =0 , right = n-1;
+        //Middle node is slow -
+        //reverse second half
+        ListNode newHead = reverseList(slow);
+        ListNode firstHalf = head;
 
-         while(left<right){
-            if(arr.get(left)!=arr.get(right)){
-                return false;
+        ListNode p1 = firstHalf;
+        ListNode p2 = newHead;
+        boolean result = true;
+        while (p2 != null) {
+            if (p1.val != p2.val) {
+                result = false;
+                break;
             }
-            left++;
-            right--;
-         }
-       return true;
+
+            p1 = p1.next;
+            p2 = p2.next;
+
+        }
+        reverseList(newHead);
+        return result;
+
+        //----------------------------------------------------------------------
+
+        //     ListNode temp = head;
+
+        //     List<Integer>arr = new ArrayList<>();
+
+        //     while(temp!=null){
+        //         arr.add(temp.val);
+        //         temp = temp.next;
+        //     }
+
+        //     int n = arr.size();
+        //      int left =0 , right = n-1;
+
+        //      while(left<right){
+        //         if(arr.get(left)!=arr.get(right)){
+        //             return false;
+        //         }
+        //         left++;
+        //         right--;
+        //      }
+        //    return true;
     }
 }
