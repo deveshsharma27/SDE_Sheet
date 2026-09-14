@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0509-fibonacci-number) |
+| [0836-rectangle-overlap](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/deveshsharma27/SDE_Sheet/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/deveshsharma27/SDE_Sheet/tree/master/1903-largest-odd-number-in-string) |
@@ -511,4 +512,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/deveshsharma27/SDE_Sheet/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
