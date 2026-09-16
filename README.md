@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0940-distinct-subsequences-ii) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/deveshsharma27/SDE_Sheet/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/deveshsharma27/SDE_Sheet/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/deveshsharma27/SDE_Sheet/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/deveshsharma27/SDE_Sheet/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/deveshsharma27/SDE_Sheet/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Hash Table
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/deveshsharma27/SDE_Sheet/tree/master/1248-count-number-of-nice-subarrays) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/deveshsharma27/SDE_Sheet/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1903-largest-odd-number-in-string](https://github.com/deveshsharma27/SDE_Sheet/tree/master/1903-largest-odd-number-in-string) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/deveshsharma27/SDE_Sheet/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/deveshsharma27/SDE_Sheet/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -509,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/deveshsharma27/SDE_Sheet/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/deveshsharma27/SDE_Sheet/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/deveshsharma27/SDE_Sheet/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1732-find-the-highest-altitude](https://github.com/deveshsharma27/SDE_Sheet/tree/master/1732-find-the-highest-altitude) |
 | [3903-smallest-stable-index-i](https://github.com/deveshsharma27/SDE_Sheet/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/deveshsharma27/SDE_Sheet/tree/master/3904-smallest-stable-index-ii) |
@@ -520,4 +523,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0836-rectangle-overlap) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/deveshsharma27/SDE_Sheet/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
