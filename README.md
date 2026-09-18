@@ -374,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0190-reverse-bits](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0190-reverse-bits) |
 ## Linked List
 |  |
 | ------- |
@@ -464,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0137-single-number-ii) |
+| [0190-reverse-bits](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0287-find-the-duplicate-number) |
