@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0231-power-of-two) |
+| [0367-valid-perfect-square](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0877-stone-game) |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0287-find-the-duplicate-number](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0287-find-the-duplicate-number) |
+| [0367-valid-perfect-square](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0540-single-element-in-a-sorted-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0700-search-in-a-binary-search-tree) |
