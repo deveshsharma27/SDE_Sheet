@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0189-rotate-array) |
 | [0260-single-number-iii](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0283-move-zeroes) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0133-clone-graph](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0133-clone-graph) |
 | [0160-intersection-of-two-linked-lists](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0424-longest-repeating-character-replacement) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0451-sort-characters-by-frequency) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -386,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0190-reverse-bits) |
 ## Linked List
 |  |
@@ -497,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0451-sort-characters-by-frequency) |
 | [0992-subarrays-with-k-different-integers](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0992-subarrays-with-k-different-integers) |
 ## Game Theory
@@ -554,4 +559,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0069-sqrtx) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
