@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0152-maximum-product-subarray) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0128-longest-consecutive-sequence](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0133-clone-graph) |
 | [0160-intersection-of-two-linked-lists](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0169-majority-element) |
@@ -557,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0128-longest-consecutive-sequence) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/deveshsharma27/SDE_Sheet/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Geometry
 |  |
