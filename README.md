@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/deveshsharma27/SDE_Sheet/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/deveshsharma27/SDE_Sheet/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/deveshsharma27/SDE_Sheet/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1901-find-a-peak-element-ii](https://github.com/deveshsharma27/SDE_Sheet/tree/master/1901-find-a-peak-element-ii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/deveshsharma27/SDE_Sheet/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/deveshsharma27/SDE_Sheet/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/deveshsharma27/SDE_Sheet/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0240-search-a-2d-matrix-ii) |
 | [0994-rotting-oranges](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/deveshsharma27/SDE_Sheet/tree/master/1260-shift-2d-grid) |
+| [1901-find-a-peak-element-ii](https://github.com/deveshsharma27/SDE_Sheet/tree/master/1901-find-a-peak-element-ii) |
 ## Stack
 |  |
 | ------- |
@@ -453,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/deveshsharma27/SDE_Sheet/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/deveshsharma27/SDE_Sheet/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/deveshsharma27/SDE_Sheet/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1901-find-a-peak-element-ii](https://github.com/deveshsharma27/SDE_Sheet/tree/master/1901-find-a-peak-element-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/deveshsharma27/SDE_Sheet/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Iterator
 |  |
