@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0739-daily-temperatures) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0904-fruit-into-baskets) |
@@ -471,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0700-search-in-a-binary-search-tree) |
 | [0704-binary-search](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0875-koko-eating-bananas) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/deveshsharma27/SDE_Sheet/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/deveshsharma27/SDE_Sheet/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -631,4 +633,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/deveshsharma27/SDE_Sheet/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
