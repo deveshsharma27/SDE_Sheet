@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0901-online-stock-span) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/deveshsharma27/SDE_Sheet/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/deveshsharma27/SDE_Sheet/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/deveshsharma27/SDE_Sheet/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/deveshsharma27/SDE_Sheet/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/deveshsharma27/SDE_Sheet/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -490,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0316-remove-duplicate-letters) |
 | [0678-valid-parenthesis-string](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/deveshsharma27/SDE_Sheet/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1903-largest-odd-number-in-string](https://github.com/deveshsharma27/SDE_Sheet/tree/master/1903-largest-odd-number-in-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/deveshsharma27/SDE_Sheet/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -626,5 +629,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/deveshsharma27/SDE_Sheet/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
