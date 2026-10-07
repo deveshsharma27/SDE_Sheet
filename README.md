@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/deveshsharma27/SDE_Sheet/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1901-find-a-peak-element-ii](https://github.com/deveshsharma27/SDE_Sheet/tree/master/1901-find-a-peak-element-ii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/deveshsharma27/SDE_Sheet/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/deveshsharma27/SDE_Sheet/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/deveshsharma27/SDE_Sheet/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/deveshsharma27/SDE_Sheet/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/deveshsharma27/SDE_Sheet/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -481,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/deveshsharma27/SDE_Sheet/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/deveshsharma27/SDE_Sheet/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1901-find-a-peak-element-ii](https://github.com/deveshsharma27/SDE_Sheet/tree/master/1901-find-a-peak-element-ii) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/deveshsharma27/SDE_Sheet/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/deveshsharma27/SDE_Sheet/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Iterator
 |  |
@@ -558,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0451-sort-characters-by-frequency) |
 | [0992-subarrays-with-k-different-integers](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0992-subarrays-with-k-different-integers) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/deveshsharma27/SDE_Sheet/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Game Theory
 |  |
 | ------- |
