@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0199-binary-tree-right-side-view) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0301-remove-invalid-parentheses) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0424-longest-repeating-character-replacement) |
@@ -566,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0090-subsets-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/deveshsharma27/SDE_Sheet/tree/master/0301-remove-invalid-parentheses) |
 ## Enumeration
 |  |
 | ------- |
